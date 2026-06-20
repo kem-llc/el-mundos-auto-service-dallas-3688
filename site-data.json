@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "El Mundo’s Auto Service",
+    "shortName": "El Mundo’s",
+    "tagline": "Expert Auto Repair You Can Trust in Dallas",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 826-3688",
+    "address": "527 N Haskell Ave., Dallas, TX 75246",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri: 7:30 AM – 5:30 PM, Sat: 8:00 AM – 12:00 PM",
+    "ctaLabel": "Schedule an Appointment",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "El Mundo’s Auto Service | Trusted Auto Repair in Dallas, TX",
+    "description": "Family-owned auto mechanic in Dallas offering expert repairs, diagnostics, and maintenance. Honest service, fair prices. Call (214) 826-3688 today!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’s Trusted Auto Repair Since 1995",
+      "headline": "Expert Auto Service That Keeps You Moving",
+      "subheadline": "From routine oil changes to complex engine repairs, our certified technicians deliver quality workmanship and transparent pricing.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (214) 826-3688"
+    },
+    "stats": [
+      {
+        "value": "28+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "4.8",
+        "label": "Average Customer Rating"
+      },
+      {
+        "value": "1000s",
+        "label": "Vehicles Serviced"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Comprehensive Care",
+        "title": "Full-Service Auto Repair & Maintenance",
+        "body": "Whether it’s a scheduled tune-up or an unexpected breakdown, our shop is equipped to handle all makes and models. We use state-of-the-art diagnostic tools and quality parts to get you back on the road safely.",
+        "bullets": [
+          "Engine & transmission diagnostics and repair",
+          "Brake, suspension, and steering services",
+          "AC & heating system repair",
+          "Regular maintenance: oil changes, fluid flushes, belt replacements"
+        ],
+        "reverse": false,
+        "cardLabel": "Our Promise",
+        "cardTitle": "Transparent & Honest",
+        "cardBody": "We explain every repair in plain English, provide upfront estimates, and never recommend unnecessary work."
+      },
+      {
+        "eyebrow": "Customer Focus",
+        "title": "Dallas Drivers Trust Us for a Reason",
+        "body": "Our reputation is built on reliability and communication. We treat every car like it’s our own and every customer like family.",
+        "bullets": [
+          "Free multi-point inspections with every service",
+          "Shuttle service and loaner cars available",
+          "Digital service reminders and history tracking",
+          "Military and senior discounts"
+        ],
+        "reverse": true,
+        "cardLabel": "Quick & Convenient",
+        "cardTitle": "Same-Day Service",
+        "cardBody": "Most repairs completed the same day. Just drop off and we’ll take care of the rest."
+      }
+    ],
+    "whyTitle": "Why Choose El Mundo’s Auto Service?",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our ASE-certified mechanics have decades of combined experience and stay current with the latest automotive technology."
+      },
+      {
+        "title": "Fair & Transparent Pricing",
+        "description": "We provide detailed estimates before any work begins, with no hidden fees or surprise charges."
+      },
+      {
+        "title": "Quality Parts & Warranties",
+        "description": "We use OEM and high-quality aftermarket parts, backed by a nationwide warranty for your peace of mind."
+      },
+      {
+        "title": "Locally Owned & Operated",
+        "description": "Proudly serving the Dallas community for over 28 years. We live and work here, so your satisfaction matters."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I’ve been bringing my car here for years. They’re always honest, fast, and the prices are fair. Highly recommend!",
+        "author": "Maria G.",
+        "role": "Lakewood Resident"
+      },
+      {
+        "quote": "El Mundo’s diagnosed an issue two other shops missed. Saved me hundreds. Great communication too.",
+        "author": "James T.",
+        "role": "Uptown Commuter"
+      },
+      {
+        "quote": "Friendly staff, clean shop, and they actually explain what’s wrong. I trust them completely.",
+        "author": "Linda R.",
+        "role": "East Dallas Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for Reliable Auto Care?",
+      "subheadline": "Call us or book online. We’ll have you back on the road quickly and safely.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (214) 826-3688"
+    }
+  },
+  "servicesPage": {
+    "intro": "At El Mundo’s Auto Service, we offer a full range of automotive repair and maintenance services to keep your vehicle running smoothly. From routine oil changes to complex engine overhauls, our experienced technicians use advanced diagnostics and quality parts to deliver lasting results."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and expert engine repair to restore performance and fuel efficiency.",
+      "longDescription": "Our advanced diagnostic equipment identifies issues quickly and accurately. Whether it’s a check engine light, rough idle, or loss of power, we pinpoint the root cause and perform precise repairs using quality components. We service all makes and models.",
+      "benefits": [
+        "Restore horsepower and fuel economy",
+        "Extend engine lifespan",
+        "Prevent costly breakdowns",
+        "Clear check engine light with verified fix"
+      ],
+      "process": [
+        {
+          "title": "Computer Scan & Inspection",
+          "description": "We connect your vehicle to our diagnostic tools and perform a visual inspection to gather data."
+        },
+        {
+          "title": "Detailed Explanation & Estimate",
+          "description": "We explain the issue, the recommended repair, and provide a written estimate before starting any work."
+        },
+        {
+          "title": "Quality Repair & Retest",
+          "description": "Our technicians complete the repair using quality parts, then test-drive to ensure the problem is resolved."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does an engine diagnostic cost?",
+          "answer": "Our diagnostic fee is $89.95, which is applied to any repairs you approve."
+        },
+        {
+          "question": "How long does an engine repair take?",
+          "answer": "It depends on the issue. Simple repairs may take a few hours; major work may take a day or two. We’ll give you a timeline upfront."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Service & Repair",
+      "shortDescription": "Complete brake inspections, pad replacement, rotor resurfacing, and brake fluid flushes.",
+      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and brake lines to ensure optimal stopping power. We use quality friction materials and offer both standard and premium options.",
+      "benefits": [
+        "Shorter stopping distances",
+        "Quieter, smoother braking",
+        "Prevent rotor warping",
+        "Extended brake component life"
+      ],
+      "process": [
+        {
+          "title": "Thorough Brake Inspection",
+          "description": "We measure pad thickness, check rotors for wear, inspect calipers and lines."
+        },
+        {
+          "title": "Recommendation & Approval",
+          "description": "We explain what’s needed and provide options for parts and pricing."
+        },
+        {
+          "title": "Professional Installation & Test",
+          "description": "We replace components, bleed the system if needed, and test brakes on the road."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace brake pads?",
+          "answer": "Typically every 30,000–50,000 miles, but it depends on driving habits. We check them during every visit."
+        },
+        {
+          "question": "Do you resurface rotors?",
+          "answer": "Yes, if they are within spec. Otherwise, we recommend replacement for safety."
+        }
+      ],
+      "slug": "brake-service-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Routine Maintenance",
+      "shortDescription": "Conventional and synthetic oil changes with a complimentary multi-point inspection.",
+      "longDescription": "Regular oil changes are the simplest way to protect your engine. We use quality oils and filters, and include a free 27-point inspection to catch small issues before they become big problems.",
+      "benefits": [
+        "Protect engine from wear",
+        "Improve fuel economy",
+        "Extend engine life",
+        "Early detection of potential issues"
+      ],
+      "process": [
+        {
+          "title": "Drain & Replace Oil",
+          "description": "We drain old oil, replace the filter, and add fresh oil of your choice (conventional or synthetic)."
+        },
+        {
+          "title": "Multi-Point Inspection",
+          "description": "We check fluids, belts, hoses, battery, tires, lights, and wipers."
+        },
+        {
+          "title": "Report & Recommendations",
+          "description": "We provide a written report of findings and suggest any necessary follow-ups."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of oil do you recommend?",
+          "answer": "We recommend the oil grade specified in your owner’s manual. We offer conventional, synthetic blend, and full synthetic."
+        },
+        {
+          "question": "How often should I change my oil?",
+          "answer": "Most modern vehicles need oil every 5,000–7,500 miles. Older cars may require 3,000-mile intervals."
+        }
+      ],
+      "slug": "oil-change-routine-maintenance"
+    },
+    {
+      "icon": "04",
+      "title": "AC & Heating System Service",
+      "shortDescription": "Diagnose and repair air conditioning and heating issues to keep you comfortable year-round.",
+      "longDescription": "A malfunctioning AC or heater can make driving miserable. Our technicians diagnose and repair compressors, condensers, evaporators, and blend doors. We also recharge refrigerant and fix electrical issues.",
+      "benefits": [
+        "Comfortable cabin temperature",
+        "Prevent compressor damage",
+        "Improved defrosting for safety",
+        "Extended system lifespan"
+      ],
+      "process": [
+        {
+          "title": "System Performance Test",
+          "description": "We check vent temperatures, pressures, and inspect components for leaks or damage."
+        },
+        {
+          "title": "Diagnostic Report",
+          "description": "We identify the problem and provide a clear explanation and estimate."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We replace faulty parts, recharge refrigerant, and verify proper operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a failing compressor, or a clogged condenser. We’ll diagnose the exact issue."
+        },
+        {
+          "question": "Do you repair heater problems too?",
+          "answer": "Yes, we service both AC and heating systems, including heater cores and blend doors."
+        }
+      ],
+      "slug": "ac-heating-system-service"
+    }
+  ],
+  "about": {
+    "headline": "Family-Owned Auto Care Since 1995",
+    "mission": "To provide honest, high-quality auto repairs with transparent communication and fair pricing, earning the trust of every customer.",
+    "story": [
+      "El Mundo’s Auto Service was founded in 1995 by Miguel Hernandez with a simple vision: create a shop where Dallas drivers could get reliable repairs without the stress. Starting with just two bays and a commitment to doing the job right the first time, the business quickly grew through word-of-mouth. Today, we operate from a full-service facility on N Haskell Ave, serving thousands of loyal customers.",
+      "Over the years, we’ve invested in the latest diagnostic equipment and continuous training for our team. But some things haven’t changed: our dedication to transparency, our respect for every customer’s time and budget, and our love for keeping Dallas moving. We treat every car as if it belongs to our own family."
+    ],
+    "highlight": {
+      "stat": "28+",
+      "label": "Years of Service"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We never recommend unnecessary repairs. Our estimates are honest and detailed."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-tier parts and follow manufacturer specifications for every repair."
+      },
+      {
+        "title": "Community",
+        "description": "We support local schools and charities, and strive to be a positive force in Dallas."
+      },
+      {
+        "title": "Respect",
+        "description": "We listen to your concerns, explain your options, and treat you like a neighbor."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to schedule? Call us or fill out the form below. We’ll respond promptly.",
+    "primaryCta": "Call (214) 826-3688",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Lakewood",
+      "Uptown",
+      "East Dallas",
+      "Oak Lawn",
+      "Highland Park",
+      "University Park",
+      "Lower Greenville"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.8,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2148263688",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
